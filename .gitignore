@@ -1,3 +1,4 @@
 data/creditcard.csv
 data/kddcup.data.corrected
 .DS_Store
+logs
